@@ -1,6 +1,6 @@
-![logo](_media/IJS_Tech.svg)
+![logo](_media/tutor_logo2.png)
 
-# IJS Tech <small>0.0.1</small>
+# IJS Tutor <small>0.0.1</small>
 
 > A magical is going to happen.
 
