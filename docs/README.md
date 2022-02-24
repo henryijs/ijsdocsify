@@ -1,3 +1,3 @@
-# Headline
+# Docs of this proj
 
-> An awesome project.
+> An introduction of this project and how to use this platform.

@@ -1,12 +1,13 @@
-![logo](_media/icon.svg)
+![logo](_media/IJS_Tech.svg)
 
-# docsify <small>4.12.2</small>
+# IJS Tech <small>0.0.1</small>
 
-> A magical documentation site generator.
+> A magical is going to happen.
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- All-in-one development environment
+- App Hosting
+- App Auditing
+- App Marketplace
 
 [GitHub](https://github.com/ijstech/node)
 [Get Started](README)
