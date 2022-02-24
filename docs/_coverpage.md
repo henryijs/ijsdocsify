@@ -1,4 +1,4 @@
-![logo](_media/tutor_logo2.png)
+![logo](_media/tutor_Logo2.PNG)
 
 # IJS Tutor <small>0.0.1</small>
 
